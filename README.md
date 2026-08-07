@@ -1,5 +1,4 @@
-# python-data-journey
-My learning journey in Python, Data Analytics and Business Intelligence.
+
 # Python Data Journey 🐍📊
 
 ## About this project
